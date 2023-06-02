@@ -1,0 +1,32 @@
+Written Report
+
+The District Analysis
+What I found from this first analysis was that overall, the students were better at passing Reading than they were with their Math scores. This was 
+evident from the 85.8% that passed Reading, as opposed to 79% that passed Math. Overall, over 65% of the students passed both Reading and Math. 
+
+The School Analysis
+The conclusions I was able to draw from this data was that the schools that had larger amounts of students (2,300+) were significantly worse
+with their overall passing score. Those schools that had between 400-2300 students, regardless of school budget, had higher overall passing scores. 
+This could indicate that the smaller class size meant students had mroe assistance with their work and thus performed better overall. 
+
+Top & Bottom Performing schools
+All schools in the top performing schools analysis had between 950-2300 students. Conversely, the bottom performing schools had between 
+2900-4800 students. This indicates that the above hypothesis is correct - the larger the class size, the worse overall passing rate the school has. 
+
+Math and Reading Scores by Grade
+These analyses showed that, generally speaking, progression throughout the grades did not affect the overall passing rate of each student. 
+
+Scores by Spending
+This analysis proved the aforementioned hypothesis that higher spending does not necessarily correlate to better overall passing grades. 
+
+Scores by School size
+This analysis reinforced what we mentioned earlier - the smaller the school size, the better the overall passing grades were. 
+
+Scores by School Type
+This analysis showed that those students that went to Charter schools performed better overall in terms of their passing grades than the students 
+at district schools. 
+
+2 conclusions
+The first conclusion is that if a school has a smaller class size, then the students generally have higher overall passing grades
+The second conclusion is that if the student went to a Charter school, they have a higher chance of a better passing grade than a student who 
+went to a District school. 
